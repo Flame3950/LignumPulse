@@ -173,13 +173,12 @@ a:focus {
 .intro .intro-body .intro-text {
     font: bold 300% Consolas, Monaco, monospace;
     border-right: .1em solid black;
-    width: 40em; 
-    width: 60ch;
-    margin: 2em 1em;
+    width: 56ch;
+    margin: auto;
     white-space: nowrap;
     overflow: hidden;
     -webkit-animation: typing 2s steps(50, end),
-               blink-caret .5s step-end infinite alternate;
+    blink-caret .5s step-end infinite alternate;
 }
 
 @media(min-width:768px) {
@@ -320,17 +319,17 @@ a:focus {
 }
 
 .btn-default {
-    border: 1px solid #2a0a40;
-    color: #2a0a40;
+    border: 1px solid #ffffff;
+    color: #ffffff;
     background-color: transparent;
 }
 
 .btn-default:hover,
 .btn-default:focus {
-    border: 1px solid #2a0a40;
+    border: 1px solid #10D7FF;
     outline: 0;
     color: #000;
-    background-color: #2a0a40;
+    background-color: #10D7FF;
 }
 
 ul.banner-social-buttons {

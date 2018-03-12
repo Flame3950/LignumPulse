@@ -178,7 +178,7 @@ a:focus {
     margin: 2em 1em;
     white-space: nowrap;
     overflow: hidden;
-    -webkit-animation: typing 2s steps(21, end),
+    -webkit-animation: typing 2s steps(50, end),
                blink-caret .5s step-end infinite alternate;
 }
 

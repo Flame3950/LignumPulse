@@ -173,8 +173,8 @@ a:focus {
 .intro .intro-body .intro-text {
     font: bold 300% Consolas, Monaco, monospace;
     border-right: .1em solid black;
-    width: 16.5em; 
-    width: 21ch;
+    width: 20.5em; 
+    width: 35ch;
     margin: 2em 1em;
     white-space: nowrap;
     overflow: hidden;

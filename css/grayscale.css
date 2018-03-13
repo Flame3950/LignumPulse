@@ -444,7 +444,7 @@ body {
 .dropdown {
     position: relative;
     display: inline-block;
-    padding-right:50px;
+    padding-right:100px;
 }
 
 /* Dropdown Content (Hidden by Default) */

@@ -444,7 +444,8 @@ body {
 .dropdown {
     position: relative;
     display: inline-block;
-    padding-right:160px;
+    padding-right:240px;
+    width:30px;
     
 }
 

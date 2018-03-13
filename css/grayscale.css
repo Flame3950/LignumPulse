@@ -433,7 +433,7 @@ body {
 
 /* Dropdown Button */
 .dropbtn {
-    background-color: #00BFFF;
+    background-color:transparent;
     color: white;
     padding: 10px;
     font-size: 16px;

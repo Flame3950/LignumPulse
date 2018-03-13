@@ -41,9 +41,6 @@ p {
     line-height: 1.5;
 }
 
-td {
-    width:170px;
-}
 @media(min-width:768px) {
     p {
         margin: 0 0 35px;
@@ -438,7 +435,7 @@ body {
 .dropbtn {
     background-color: #00BFFF;
     color: white;
-    padding: 16px;
+    padding: 40px;
     font-size: 16px;
     border: none;
 }
@@ -448,7 +445,7 @@ body {
     position: relative;
     display: inline-block;
     padding-right:360px;
-    padding-left:50px;   
+    padding-left:20px;   
 }
 
 /* Dropdown Content (Hidden by Default) */

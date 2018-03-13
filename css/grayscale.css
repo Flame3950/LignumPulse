@@ -435,7 +435,8 @@ body {
 .dropbtn {
     background-color: #00BFFF;
     color: white;
-    padding: 40px;
+    padding: 10px;
+    padding-right:40px;
     font-size: 16px;
     border: none;
 }
@@ -444,7 +445,7 @@ body {
 .dropdown {
     position: relative;
     display: inline-block;
-    padding-right:360px;
+    padding-right:160px;
     padding-left:20px;   
 }
 
